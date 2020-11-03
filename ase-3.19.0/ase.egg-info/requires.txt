@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+
+[docs]
+sphinx
+sphinx_rtd_theme
+pillow
